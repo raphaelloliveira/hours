@@ -1,0 +1,29 @@
+@import url(../css/reset.css);
+body {
+    background-image: linear-gradient(rgb(91, 118, 236), rgb(175, 187, 240));
+    /*background: linear-gradient(rgb(240, 133, 72), rgb(248, 225, 125));*/
+    font: normal 15pt Arial;
+    width: 100%;
+    min-height: 100vh;
+}
+
+header {
+    color: #fff;
+    text-align: center;
+}
+
+section {
+    background: #fff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.342);
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+}
